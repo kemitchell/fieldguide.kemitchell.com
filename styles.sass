@@ -1,0 +1,86 @@
+---
+---
+
+$dateWidth: 100px
+$datePadding: 36px
+$interPostPadding: 36px
+$darkRed: #800000
+
+html, body
+  margin: 0
+  text-align: center
+  font-family: Equity-Text
+  font-size: 24px
+  background-color: #f8f8f8
+
+$pageWidth: 680px
+
+header, .body, footer
+  margin: 0 auto
+
+.body
+  padding-bottom: 100px
+  img
+    max-width: $pageWidth
+
+header
+  margin-top: $interPostPadding
+
+  h1
+    padding-top: $interPostPadding
+    display: block
+    font:
+      family: "Concourse-T6"
+      size: 200%
+
+  p
+    color: #333
+    padding-top: 2ex
+    font-size: 115%
+
+.siteDescription
+  text-transform: lowercase
+
+header, .body
+  width: $pageWidth
+  margin: 20px auto
+  text-align: left
+
+footer
+  width: $pageWidth
+  clear: both
+
+a
+  text-decoration: none
+  color: $darkRed
+  &:hover
+    text-decoration: underline
+
+.body
+  h2
+    font-size: 150%
+    font-family: "Concourse-T6"
+    padding: 1em 0 0.25em 0
+  h3
+    padding: 1em 0 0.25em 0
+  p
+    padding: 0.5em 0
+    line-height: 114%
+    hyphens: auto
+  p, li
+    text-align: justify
+  &> p
+    &:last-child
+      padding-bottom: 200px
+  h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, hr + p
+    text-indent: 0
+  .signature
+    color: #444
+    font-size: 50%
+    text-align: right
+  ol, ul, dl
+    margin-left: 3em
+    p
+      text-indent: 0
+    li
+      padding: 0.5em 0.5em 0.5em 0

@@ -1,0 +1,7 @@
+name: Field Guide to United States Intellectual Property
+description: Identification, sources, and traps for the non-lawyer
+url: https://fieldguide.kemitchell.com
+author: Kyle E. Mitchell
+repository: kemitchell/fieldguide
+gems:
+- jekyll-sass-converter
