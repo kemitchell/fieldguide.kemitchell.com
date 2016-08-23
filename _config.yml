@@ -5,3 +5,5 @@ author: Kyle E. Mitchell
 repository: kemitchell/fieldguide
 gems:
 - jekyll-sass-converter
+exclude:
+- vendor
