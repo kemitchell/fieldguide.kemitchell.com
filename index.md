@@ -10,9 +10,9 @@ If you spot an error or come up with a way to make this guide better, you can [p
 
 [copyleft]: https://en.wikipedia.org/wiki/Copyleft
 
-[fork]: https://github.com/kemitchell/ip-field-guide/edit/gh-pages/index.md
+[fork]: https://github.com/kemitchell/ip-field-guide/edit/master/index.md
 
-[CC-BY-SA-4.0]: https://github.com/kemitchell/ip-field-guide/blob/gh-pages/COPYING
+[CC-BY-SA-4.0]: https://github.com/kemitchell/ip-field-guide/blob/master/COPYING
 
 ## Structure
 
