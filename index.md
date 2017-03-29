@@ -85,7 +85,7 @@ Steps Required:  Use a mark to identify the source of goods or services.  Regist
 
 Common Misconceptions:
 
-- Federal trademark registration isn't required, but no federal registration means suing under state law for violations within that the specific state.
+- Federal trademark registration isn't required, but no federal registration means suing under state law for violations within that specific state.
 - Trademark owners need to enforce their rights to keep them strong, but not every use of a mark (or something similar to it) is a threat.  Trademark has fair use rules, too, and not every use has the potential to confuse consumers.
 - Trademark rights can't be transferred in ways that break consumers' associations between products and services bearing the mark and who they come from.  Lawyers call these "naked assignments", "bare assignments", and "assignments in gross".  There are no good jokes about this.
 
