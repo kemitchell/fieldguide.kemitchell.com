@@ -14,6 +14,8 @@ If you spot an error or come up with a way to make this guide better, you can [p
 
 [CC-BY-SA-4.0]: https://github.com/kemitchell/ip-field-guide/blob/master/COPYING
 
+Some readers may prefer [Brent Britton's _Ownability_](https://www.amazon.com/dp/B076KP8DK3/), which is longer, but sports svelte, colorful illustrations.  That's a good resource, too.
+
 ## Structure
 
 This field guide covers [copyright](#copyright), [trademark](#trademark), [patent](#patent), and [trade secret](#trade-secret).  For each kind of intellectual property, you will find:
