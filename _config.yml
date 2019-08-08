@@ -3,7 +3,7 @@ description: identification, sources, and traps for the non-lawyer
 url: https://fieldguide.kemitchell.com
 author: Kyle E. Mitchell
 repository: kemitchell/fieldguide
-gems:
+plugins:
 - jekyll-sass-converter
 exclude:
 - vendor
