@@ -54,7 +54,9 @@ Steps Required:  None required, but [copyright registration] gives important ben
 Common Misconceptions:
 
 - The author of a work doesn't always own the copyright, or have a right to license it. Some works made for others, called [works made for hire], belong to employers and clients.
+
 - Copyright doesn't cover everything that's written or recorded.  Works must have a [minimal degree of creativity][feist] for copyright.
+
 - "[Fair Use][fair use]" isn't copyright infringement, but giving credit or saying you don't intend to infringe doesn't turn infringement into fair use.
 
 [feist]: https://www.oyez.org/cases/1990/89-1909
@@ -88,7 +90,9 @@ Steps Required:  Use a mark to identify the source of goods or services.  Regist
 Common Misconceptions:
 
 - Federal trademark registration isn't required, but no federal registration means suing under state law for violations within that specific state.
+
 - Trademark owners need to enforce their rights to keep them strong, but not every use of a mark (or something similar to it) threatens to confuse consumers.  Trademark has fair use rules, too.
+
 - Trademark rights can't be transferred in ways that break consumers' associations between products and services bearing the mark and who they come from.  Lawyers call these "naked assignments", "bare assignments", and "assignments in gross".  There are no good jokes about this.
 
 [USPTO]: https://www.uspto.gov
@@ -116,8 +120,11 @@ Steps Required:  Patent application granted by the [USPTO].  "Provisional" appli
 Common Misconceptions:
 
 - It is not enough to be the first person who made or thought of an invention.  Since 2012, under the [America Invents Act][AIA], the first to file for a patent on an invention can receive it, with special procedures to challenge a patent after it is granted.
+
 - Patents for software are neither impossible nor easy to get.  The law on what can be patented, and how the [USPTO] and courts make that assessment, is changing.
+
 - The title of a patent is often very general-sounding.  But the "claims"---specific, numbered descriptions at the end of a patent---not the title, determine what a patent covers.
+
 - "Provisional Applications" are important, but they aren't patents.  They're just rights to file a patent application that counts from back when the provisional was filed.
 
 [AIA]: https://www.gpo.gov/fdsys/pkg/PLAW-112publ29/content-detail.html
@@ -145,4 +152,5 @@ Steps Required:  In general, have a secret with economic value and take reasonab
 Common Misconceptions:
 
 - Just because something might be patent- or copyright-protected doesn't mean it can't be a trade secret.  Companies have intentionally kept patentable inventions as trade secrets.
+
 - Sharing secrets across companies doesn't automatically destroy trade secret rights.  Nondisclosure agreements and related practices can count as reasonable steps to keep trade secrets secret.
