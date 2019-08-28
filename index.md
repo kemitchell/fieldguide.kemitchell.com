@@ -151,6 +151,6 @@ Steps Required:  In general, have a secret with economic value and take reasonab
 
 Common Misconceptions:
 
-- Just because something might be patent- or copyright-protected doesn't mean it can't be a trade secret.  Companies have intentionally kept patentable inventions as trade secrets.
+- Just because something might be patent- or copyright-protected doesn't mean it can't be a trade secret.  Companies have intentionally kept patentable inventions secrets instead, and protected them as trade secrets.
 
 - Sharing secrets across companies doesn't automatically destroy trade secret rights.  Nondisclosure agreements and related practices can count as reasonable steps to keep trade secrets secret.
