@@ -153,4 +153,4 @@ Common Misconceptions:
 
 - Just because something might be patent- or copyright-protected doesn't mean it can't be a trade secret.  Companies have intentionally kept patentable inventions secrets instead, and protected them as trade secrets.
 
-- Sharing secrets across companies doesn't automatically destroy trade secret rights.  Nondisclosure agreements and related practices can count as reasonable steps to keep trade secrets secret.
+- Sharing secrets across companies doesn't automatically destroy trade secret rights.  [Nondisclosure agreements](https://waypointnda.com) and related practices can count as reasonable steps to keep trade secrets secret.
