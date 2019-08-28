@@ -31,7 +31,7 @@ This field guide covers [copyright](#copyright), [trademark](#trademark), [paten
 
 [federalism]: https://en.wikipedia.org/wiki/Federalism_in_the_United_States
 
-This is just a field guide.  It's designed to help you identify some potential intellectual property problems you might otherwise miss, not to make you an eagle-eyed IP-spotting machine or prescribe solutions to specific problem.  That's what lawyers are for.  I'm sorry they're so expensive.  [I'm working on it.][commonform]
+This is just a field guide.  It's designed to help you identify some potential intellectual property problems you might otherwise miss, not to make you an eagle-eyed IP-spotting machine, or to solve specific problems.  That's what lawyers are for.  I'm sorry they're so expensive.  [I'm working on it.][commonform]
 
 [commonform]: https://commonform.github.io
 
