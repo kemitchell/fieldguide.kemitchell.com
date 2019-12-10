@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Field Guide to United States Intellectual Property
+
+_identification, sources, and traps for the non-lawyer_
+
 This guide is a breezy tour of the major kinds of intellectual property under United States laws.  You can read it in one go.
 
 The most important parts are sob stories of prototypical injustices intellectual property laws try to prevent.  Keep them in the back of your mind.  _If bad things like this happen to you, talk to a lawyer._
