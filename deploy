@@ -1,5 +1,4 @@
 #!/bin/sh
 set -e
-rm -rf _site
-bundler exec jekyll build --quiet
-rsync --quiet -avr --delete _site/ kyle@fieldguide.kemitchell.com:/var/www/fieldguide.kemitchell.com
+make
+rsync --quiet -avr --delete index.html styles.css kyle@fieldguide.kemitchell.com:/var/www/fieldguide.kemitchell.com

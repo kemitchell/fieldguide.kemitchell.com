@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Field Guide to United States Intellectual Property
 
 _identification, sources, and traps for the non-lawyer_
@@ -20,7 +16,7 @@ If you spot an error or come up with a way to make this guide better, you can [p
 
 Some readers may prefer [Brent Britton's _Ownability_](https://www.amazon.com/dp/B076KP8DK3/), which is longer, but sports svelte, colorful illustrations.  That's a good resource, too.
 
-## Structure
+<h2 id="structure">Structure</h2>
 
 This field guide covers [copyright](#copyright), [trademark](#trademark), [patent](#patent), and [trade secret](#trade-secret).  For each kind of intellectual property, you will find:
 
@@ -39,7 +35,7 @@ This is just a field guide.  It's designed to help you identify some potential i
 
 [commonform]: https://commonform.github.io
 
-## Copyright
+<h2 id="copyright">Copyright</h2>
 
 Individual:  Anna Author labors twenty years in poverty to finish a novel.  A dishonest publisher makes millions printing an unauthorized "first edition" of an early draft Anna submitted for review.  Anna starves to death, then becomes famous.
 
@@ -75,7 +71,7 @@ Common Misconceptions:
 
 [fair use]: http://www.copyright.gov/fair-use/more-info.html
 
-## Trademark
+<h2 id="trademark">Trademark</h2>
 
 Individual:  Larry the Luthier builds and sells mandolins, identifying his masterworks with unique scrolls.  A large manufacturer of budget banjos starts selling inexpensive, foreign-made mandolins with scrolls just like Larry's.  The nation's primo flatpickers figure Larry sold out, and go electric.  Larry is struck by lightning.
 
@@ -105,7 +101,7 @@ Common Misconceptions:
 
 [federal registration]: http://www.uspto.gov/trademarks-getting-started/process-overview/trademark-information-network
 
-## Patent
+<h2 id="patent">Patent</h2>
 
 Individual:  After years of tinkering, Carrie Craftsman invents a new kind of bracket for industrial garage doors.  She applies for and receives a patent, and also meets with a potential manufacturer.  The manufacturer starts making and selling the new bracket on the sly.  The garage door of the local fire department fails when Carrie gets caught in a workshop fire.  Carrie's kin inherit nothing, and have to sell the homestead to a multinational farming conglomerate.
 
@@ -133,7 +129,7 @@ Common Misconceptions:
 
 [AIA]: https://www.gpo.gov/fdsys/pkg/PLAW-112publ29/content-detail.html
 
-## Trade Secret
+<h2 id="trade-secret">Trade Secret</h2>
 
 Individual:  Sam Smythe, journeyman industrial welder, keeps a list of potential clients locked in the drawer of a desk in his private office.  A competing fabrication firm sneaks into his office, pries the drawer open, snaps a photo of his list, and dispatches sleazy sales creatures to each lead faster than Sam could ever cover them himself.  Sam journeys on to Chapter 11.
 
