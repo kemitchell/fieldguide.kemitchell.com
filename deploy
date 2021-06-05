@@ -1,4 +1,5 @@
 #!/bin/sh
 set -e
 make
-rsync --quiet -avr --delete index.html styles.css kyle@fieldguide.kemitchell.com:/var/www/fieldguide.kemitchell.com
+site=fieldguide.kemitchell.com
+rsync --quiet -avr --delete index.html styles.css $site:/var/www/$site/
