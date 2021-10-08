@@ -1,4 +1,5 @@
 #!/bin/sh
 set -e
+SITE=fieldguide.kemitchell.com
 make
-rsync --quiet -avr --delete index.html styles.css kyle@fieldguide.kemitchell.com:/var/www/fieldguide.kemitchell.com
+scp -q index.html "$SITE:/var/www/$SITE/"
