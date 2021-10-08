@@ -1,5 +1,4 @@
 #!/bin/sh
 set -e
 SITE=fieldguide.kemitchell.com
-make
 scp -q index.html "$SITE:/var/www/$SITE/"
